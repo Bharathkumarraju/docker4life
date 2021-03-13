@@ -59,6 +59,22 @@ Invalid input.....you better enter valid input
 bharathkumarraju@R77-NB193 demo3 %
 
 
+bharathkumarraju@R77-NB193 docker4life % docker rm $(docker ps -aq)
+cfbfae711141
+49d4f36cf0c8
+11f9a8efd2a3
+6ff0fbb685bb
+5e4e1b418fb8
+7f4a14878717
+1440cfa50942
+31a715796cc0
+75a7c9db6eff
+e65a63a0c6fe
+bharathkumarraju@R77-NB193 docker4life %
+
+
+
+
 
 
 
